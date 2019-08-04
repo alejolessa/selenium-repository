@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="9" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79301" started-at="2019-06-22T10:34:12Z" finished-at="2019-06-22T10:35:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79301" started-at="2019-06-22T10:34:12Z" finished-at="2019-06-22T10:35:32Z">
+      <class name="tests.TestInventory">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.TestInventory@457e2f02]" name="beforeTest" is-config="true" duration-ms="6640" started-at="2019-06-22T10:34:50Z" finished-at="2019-06-22T10:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="buyOneItem()[pri:0, instance:tests.TestInventory@457e2f02]" name="buyOneItem" duration-ms="14741" started-at="2019-06-22T10:34:57Z" finished-at="2019-06-22T10:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyOneItem -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestInventory@457e2f02]" name="afterMethod" is-config="true" duration-ms="787" started-at="2019-06-22T10:35:12Z" finished-at="2019-06-22T10:35:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.TestInventory@457e2f02]" name="beforeTest" is-config="true" duration-ms="6252" started-at="2019-06-22T10:35:13Z" finished-at="2019-06-22T10:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="buySeveralItems()[pri:0, instance:tests.TestInventory@457e2f02]" name="buySeveralItems" duration-ms="5351" started-at="2019-06-22T10:35:19Z" finished-at="2019-06-22T10:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buySeveralItems -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestInventory@457e2f02]" name="afterMethod" is-config="true" duration-ms="737" started-at="2019-06-22T10:35:24Z" finished-at="2019-06-22T10:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.TestInventory@457e2f02]" name="beforeTest" is-config="true" duration-ms="5962" started-at="2019-06-22T10:35:25Z" finished-at="2019-06-22T10:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="pageTitle()[pri:0, instance:tests.TestInventory@457e2f02]" name="pageTitle" duration-ms="26" started-at="2019-06-22T10:35:31Z" finished-at="2019-06-22T10:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestInventory@457e2f02]" name="afterMethod" is-config="true" duration-ms="727" started-at="2019-06-22T10:35:31Z" finished-at="2019-06-22T10:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.TestInventory@457e2f02]" name="after" is-config="true" duration-ms="1" started-at="2019-06-22T10:35:32Z" finished-at="2019-06-22T10:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.TestInventory -->
+      <class name="tests.SeleniumTestSuite">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:tests.SeleniumTestSuite@7823a2f9]" name="beforeSuite" is-config="true" duration-ms="26259" started-at="2019-06-22T10:33:46Z" finished-at="2019-06-22T10:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+      </class> <!-- tests.SeleniumTestSuite -->
+      <class name="tests.TestLogin">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="7853" started-at="2019-06-22T10:34:12Z" finished-at="2019-06-22T10:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="correctUser()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="correctUser" duration-ms="3801" started-at="2019-06-22T10:34:20Z" finished-at="2019-06-22T10:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctUser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="1323" started-at="2019-06-22T10:34:24Z" finished-at="2019-06-22T10:34:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="6638" started-at="2019-06-22T10:34:25Z" finished-at="2019-06-22T10:34:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incorrectPsw()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="incorrectPsw" duration-ms="486" started-at="2019-06-22T10:34:32Z" finished-at="2019-06-22T10:34:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectPsw -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="1392" started-at="2019-06-22T10:34:33Z" finished-at="2019-06-22T10:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="6231" started-at="2019-06-22T10:34:34Z" finished-at="2019-06-22T10:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incorrectUser()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="incorrectUser" duration-ms="424" started-at="2019-06-22T10:34:40Z" finished-at="2019-06-22T10:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectUser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="716" started-at="2019-06-22T10:34:41Z" finished-at="2019-06-22T10:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="8285" started-at="2019-06-22T10:34:41Z" finished-at="2019-06-22T10:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="pageTitle()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="pageTitle" duration-ms="20" started-at="2019-06-22T10:34:50Z" finished-at="2019-06-22T10:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="726" started-at="2019-06-22T10:34:50Z" finished-at="2019-06-22T10:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.TestLogin@4cc0edeb]" name="after" is-config="true" duration-ms="1" started-at="2019-06-22T10:34:50Z" finished-at="2019-06-22T10:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

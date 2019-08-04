@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+<fullyQualifiedTypeName name="tests.Test1"/>
+<fullyQualifiedTypeName name="newPackage.MyClass"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Listeners"/>
+<fullyQualifiedTypeName name="pages.LoginPage"/>
+<fullyQualifiedTypeName name="pageFactory.LoginPage1"/>
+<fullyQualifiedTypeName name="pageFactory.InventoryPage"/>
+<fullyQualifiedTypeName name="pageFactory.CartPage"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="pageFactory.CheckOut_1Page"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="general.Calculations"/>
+<fullyQualifiedTypeName name="tests.MyClass"/>
+<fullyQualifiedTypeName name="tests.TestInventory"/>
+<fullyQualifiedTypeName name="pageFactory.Inventory_ItemPage"/>
+<fullyQualifiedTypeName name="general.CartElements"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="pageFactory.CheckOut_2Page"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="general.ItemsToBuy"/>
+<fullyQualifiedTypeName name="general.Utilities"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="org.testng.annotations.AfterMethod"/>
+</qualifiedTypeNameHistroy>
